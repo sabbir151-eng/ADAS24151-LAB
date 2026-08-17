@@ -385,15 +385,15 @@ SAAHAS-ADAS aims to transform the vehicle from a system that primarily
 
 The project document references foundational work and standards
 including:
-
--   YOLO / real-time object detection research
--   KITTI autonomous-driving benchmark
--   nuScenes multimodal autonomous-driving dataset
--   European Union eCall regulation
--   NHTSA Event Data Recorder requirements
--   Llama 2
--   Connected and automated vehicle data-management research
--   SAE J3016 driving-automation terminology
+ Sallam, O., Mahrous, M. A., & Franks, C. A. (2026). Artificial Intelligence (AI) Applications for Improving Traffic Safety and Reducing Crashes. SSRN.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6665658
+Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You Only Look Once: Unified, Real-Time Object Detection. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 779–788.
+Geiger, A., Lenz, P., & Urtasun, R. (2012). Are we ready for autonomous driving? The KITTI vision benchmark suite. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 3354–3361.
+Caesar, H., et al. (2020). nuScenes: A multimodal dataset for autonomous driving. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 11621–11631.
+European Commission. (2015). Regulation (EU) 2015/758 concerning type-approval requirements for the deployment of the eCall in-vehicle system. Official Journal of the European Union.
+National Highway Traffic Safety Administration (NHTSA). (2006). Event Data Recorders. Federal Motor Vehicle Safety Standards, 49 CFR Part 563.
+Touvron, H., et al. (2023). Llama 2: Open Foundation and Fine-Tuned Chat Models. arXiv.
+SAE International. (2021). Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles. SAE J3016_202104.
 
 ## Disclaimer
 
